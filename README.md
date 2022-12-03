@@ -18,10 +18,11 @@ OR<br>
 Clone this project in android studio and navigate to the kotline playground Git: https://github.com/mustafakamal88/KotlinPlayGround.git<br>
 
 **This is the program code in the editor:**<br>
-
+```
 fun main() {
     println("Hello, world!")
 }
+```
 <br>
 
 **Run the program code**<br>
