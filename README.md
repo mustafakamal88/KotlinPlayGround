@@ -248,7 +248,7 @@ In your code, between the two `println()` statements for `Happy Birthday` and `Y
 ````
 <br>
 
-To help others understand your code, you can add a comment before you print the cake. If you run your code, the output won't look any different, because comments are just information for you and other developers, not commands for the system. An inline comment starts with // followed by text, as shown below.<br>
+To help others understand your code, you can add a comment before you print the cake. If you run your code, the output won't look any different, because comments are just information for you and other developers, not commands for the system. An inline comment starts with `//` followed by text, as shown below.<br>
 
 ```ruby
 // This is a comment line
