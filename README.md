@@ -9,6 +9,7 @@ Android apps are written in the Kotlin programming language. Kotlin is a modern 
 **Programming Language?**<br>
 Just like you use human language to communicate with another person, you use a programming language to communicate with the operating system of your computer. Fortunately, programming languages are less complex than human languages and quite logical!
 
+
 **(IDE) Integrated Development Environment**<br>
 IDE is a programming tool or software application that provides comprehensive facilities to computer programmers for software development.
 we can simply say that IDE is use as a code editor.
@@ -19,7 +20,7 @@ OR<br>
 Clone this project in android studio and navigate to the kotline playground Git: https://github.com/mustafakamal88/KotlinPlayGround.git<br>
 
 **This is the program code in the editor:**<br>
-```
+```ruby
 fun main() {
     println("Hello, world!")
 }
