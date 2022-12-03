@@ -37,7 +37,7 @@ Look at the pane at the bottom.<br>
 
 **Output**<br>
 ```
-Hello, world!<br>
+Hello, world!
 ```
 **Notice** Hello, world! printed, So now you know what this program does: It prints, or outputs, a hello world message.
 
