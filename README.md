@@ -200,10 +200,10 @@ fun main() {
 ```
 ---
 ## What we learn next
-⋅⋅* Print more complex text from your program.
-⋅⋅* Do basic math in Kotlin and store the results in variables for later use.
-⋅⋅* Create a function to print the same string several times.
-⋅⋅* Create a loop that prints a text snippet multiple times.
+- Print more complex text from your program.<br>
+- Do basic math in Kotlin and store the results in variables for later use.<br>
+- Create a function to print the same string several times.<br>
+- Create a loop that prints a text snippet multiple times.<br>
 
 
 
