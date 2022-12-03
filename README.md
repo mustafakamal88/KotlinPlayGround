@@ -205,6 +205,8 @@ fun main() {
 - Create a function to print the same string several times.<br>
 - Create a loop that prints a text snippet multiple times.<br>
 
+Inside the `fun main()` function, replace the `"Hello, world!"` text with `"Happy Birthday, Rover!"`.<br>
+Below that, still inside the curly braces, add two more lines to print: `"You are already 5!"` and `"5 is the very best age to celebrate!"`.<br>
 
 
 
@@ -212,5 +214,10 @@ fun main() {
 
 
 
+
+<br>
+<br>
+<br>
+---
 ## Reference Site<br>
 [Google Android Developer Training](https://developer.android.com/courses/android-basics-kotlin/course) "I learn Kotlin from this Google official documentation you can also check for more references")
