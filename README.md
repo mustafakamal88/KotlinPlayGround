@@ -157,8 +157,9 @@ Run your program. You should see Jhansi printed in red, and an exclamation mark 
 <br>
 
 Look at the output pane. It shows a message with the same exclamation mark icon. What follows is a description of the error in your code.
-<br>
 
+<img width="1440" alt="Screenshot 2022-12-03 at 8 03 50 PM" src="https://user-images.githubusercontent.com/35607112/205447453-897388bb-5413-4ceb-9051-c58d55717e2b.png">
+<br>
 
 
 
