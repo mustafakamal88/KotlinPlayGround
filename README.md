@@ -1,10 +1,5 @@
 # **KotlinPlayGround**
 
-## Reference Site<br>
-[Google Android Developer Training](https://developer.android.com/courses/android-basics-kotlin/course) "I learn Kotlin from this Google official documentation you can also check for more references")
-
-
-
 *Write your first program in Kotlin*
 
 **What is Kotlin?**<br>
@@ -36,7 +31,7 @@ Running a program that you created is not much different than running a program 
 
 Let's see what this program does!<br>
 
-In the editor, in the top-right corner, find the green triangle and click it to run the program.
+In the editor, in the top-right corner, find the green triangle ![63ca117bafffc8da_1920](https://user-images.githubusercontent.com/35607112/205415450-8b92f8d8-796a-4bcd-89b2-2061e0c2a831.png) and click it to run the program.
 Look at the pane at the bottom.<br>
 
 **Output**<br>
@@ -51,3 +46,8 @@ Hello, world!<br>
 
 
 
+
+
+
+## Reference Site<br>
+[Google Android Developer Training](https://developer.android.com/courses/android-basics-kotlin/course) "I learn Kotlin from this Google official documentation you can also check for more references")
