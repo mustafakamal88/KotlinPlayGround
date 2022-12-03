@@ -114,6 +114,33 @@ fun main() {
 <br>
 ## 4. Extend your program<br>
 
+Print more than one message<br>
+Great job! You printed one line of text using the println() function. However, you can put as many lines of instructions inside a function as you want or need to get a task accomplished.<br>
+
+Copy the line println("Happy Birthday!") and paste it two more times below it. Make sure your pasted lines are inside the curly braces of the main function.<br>
+Change one text to be printed to someone's name, say "Jhansi".<br>
+Change the other text to be printed to "You are 25!".<br>
+Your code should look like the code below.<br>
+
+```ruby
+fun main() {
+    println("Happy Birthday!")
+    println("Jhansi")
+    println("You are 25!")
+}
+```
+<br>
+What would you expect this code to do when it runs?<br>
+
+Run your program to see what it does.<br>
+Go to the output pane, and you should see 3 lines printed in the console window, as shown below.<br>
+
+```
+Happy Birthday!
+Jhansi
+You are 25!
+```
+
 
 
 
