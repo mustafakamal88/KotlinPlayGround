@@ -248,6 +248,37 @@ In your code, between the two `println()` statements for `Happy Birthday` and `Y
 ````
 <br>
 
+To help others understand your code, you can add a comment before you print the cake. If you run your code, the output won't look any different, because comments are just information for you and other developers, not commands for the system. An inline comment starts with // followed by text, as shown below.<br>
+
+```ruby
+// This is a comment line
+// This is another comment
+```
+<br>
+Add a comment before you print the cake: // Let's print a cake!.<br>
+Add a comment before printing the empty line: // This prints an empty line.<br>
+
+Your code should look like the code below.<br>
+
+```ruby
+fun main() {
+    println("Happy Birthday, Rover!")
+    
+    // Let's print a cake!
+    println("   ,,,,,   ")
+    println("   |||||   ")
+    println(" =========")
+    println("@@@@@@@@@@@")
+    println("{~@~@~@~@~}")
+    println("@@@@@@@@@@@")
+    
+    // This prints an empty line.
+    println("")
+
+    println("You are already 5!")
+    println("5 is the very best age to celebrate!")
+}
+```
 
 
 
