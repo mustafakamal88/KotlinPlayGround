@@ -152,7 +152,9 @@ In your program, remove the quotes around the text Jhansi, so that line looks as
 println(Jhansi)
 ```
 <br>
-Run your program. You should see Jhansi printed in red, and an exclamation mark next to the line of code you changed, to show you where there is an error.<br>
+Run your program. You should see Jhansi printed in red, and an exclamation mark next to the line of code you changed, to show you where there is an error
+<br>
+<br>
 
 Android Studio error message
 <br>
