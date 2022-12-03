@@ -159,7 +159,8 @@ Android Studio
 <br>
 Web Tool
 <br>
-<[59b30c831e01b523_1920](https://user-images.githubusercontent.com/35607112/205447504-49408544-7a9e-4354-a7bc-99409f396e05.png)>
+![59b30c831e01b523_1920](https://user-images.githubusercontent.com/35607112/205447804-1bc13127-68e1-4eb9-83ac-9882237a1ea7.png)
+
 <br>
 
 Look at the output pane. It shows a message with the same exclamation mark icon. What follows is a description of the error in your code.
@@ -168,7 +169,7 @@ Look at the output pane. It shows a message with the same exclamation mark icon.
 <br>
 Web Tool
 <br>
-<[59b30c831e01b523_1920](https://user-images.githubusercontent.com/35607112/205447694-98dcbe85-feb4-45a4-a5dc-f014f4a5d7f2.png)>
+![5b166684a2b80dee_1920](https://user-images.githubusercontent.com/35607112/205447828-03c213d2-260b-4835-aece-ed47d9ca00d7.png)
 
 <br>
 
