@@ -152,7 +152,8 @@ In your program, remove the quotes around the text Jhansi, so that line looks as
 println(Jhansi)
 ```
 <br>
-Run your program. You should see Jhansi printed in red, and an exclamation mark next to the line of code you changed, to show you where there is an error.
+Run your program. You should see Jhansi printed in red, and an exclamation mark next to the line of code you changed, to show you where there is an error.<br>
+
 ![59b30c831e01b523_1920](https://user-images.githubusercontent.com/35607112/205447074-2c5c8213-9fb0-4e80-91bd-748653409cc8.png)
 
 
