@@ -35,7 +35,7 @@ Look at the pane at the bottom.<br>
 
 **Output**<br>
 
-Hello, world!<br>
+<span style="color: red;">Hello, world!<br></span>
 
 **Notice** Hello, world! printed, So now you know what this program does: It prints, or outputs, a hello world message.
 
