@@ -155,10 +155,12 @@ println(Jhansi)
 Run your program. You should see Jhansi printed in red, and an exclamation mark next to the line of code you changed, to show you where there is an error.<br>
 Android Studio
 <br>
+
 <img width="1440" alt="Screenshot 2022-12-03 at 8 00 15 PM" src="https://user-images.githubusercontent.com/35607112/205447251-b325425a-d0e3-4ba8-a529-5d6070bac9a5.png">
 <br>
 Web Tool
 <br>
+
 ![59b30c831e01b523_1920](https://user-images.githubusercontent.com/35607112/205447804-1bc13127-68e1-4eb9-83ac-9882237a1ea7.png)
 
 <br>
@@ -169,6 +171,7 @@ Look at the output pane. It shows a message with the same exclamation mark icon.
 <br>
 Web Tool
 <br>
+
 ![5b166684a2b80dee_1920](https://user-images.githubusercontent.com/35607112/205447828-03c213d2-260b-4835-aece-ed47d9ca00d7.png)
 
 <br>
