@@ -69,20 +69,32 @@ fun
 
 **Note:** Kotlin has many special words with very specific meanings. As you learn to program in the Kotlin language, you will learn these words. They are often called keywords or reserved words.<br>
 
-```fun main```<br>
+```
+fun main
+```
+<br>
 
 main is the name of this function. Functions have names, so they can be distinguished from each other. This function is called main, because it is the first, or main, function that is called when you run the program. Every Kotlin program needs a function named main.<br>
 
-```fun main()```<br>
+```
+fun main()
+```
+<br>
 
 The function name is always followed by () two parentheses.
 Inside the parentheses, you can put information for the function to use. This input to the function is called "arguments" or args for short. You will learn more about arguments later.<br>
 
-```fun main() {}```<br>
+```
+fun main() {}
+```
+<br>
 Notice the pair of curly braces {} after the parentheses. Inside a function is code that accomplishes a task. These curly braces surround those lines of code.<br>
 
-Look at the line of code between the curly braces:
-```println("Happy Birthday!")```<br>
+Look at the line of code between the curly braces:<br>
+```
+println("Happy Birthday!")
+```
+<br>
 
 This line of code prints the Happy Birthday! text.<br>
 
