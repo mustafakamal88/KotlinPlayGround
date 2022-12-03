@@ -188,7 +188,7 @@ For the complete code of the program you worked on in this repository Download i
 <br>
 OR
 <br>
-Copy from below
+Copy from here ⬇
 <br>
 
 ```ruby
