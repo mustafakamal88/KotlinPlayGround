@@ -226,7 +226,9 @@ You are already 5!
 5 is the very best age to celebrate!
 ```
 <br>
+
 A birthday message needs a birthday-themed picture. Like, a cake. You can add a cake to your birthday message by printing additional lines that use the letters and symbols on your keyboards and `println()`.
+
 <br>
 
 In your code, between the two `println()` statements for `Happy Birthday` and `You are already 5`, add the following lines of print statements, as shown below. This creates a cake. The last `println()` statement has no text between the quotes, which prints an empty line.<br>
