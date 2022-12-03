@@ -208,7 +208,15 @@ fun main() {
 Inside the `fun main()` function, replace the `"Hello, world!"` text with `"Happy Birthday, Rover!"`.<br>
 Below that, still inside the curly braces, add two more lines to print: `"You are already 5!"` and `"5 is the very best age to celebrate!"`.<br>
 
-
+Your finished code should look like this.
+```ruby
+fun main() {
+    println("Happy Birthday, Rover!")
+    println("You are already 5!")
+    println("5 is the very best age to celebrate!")
+}
+```
+<br>
 
 
 
