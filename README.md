@@ -140,9 +140,22 @@ Happy Birthday!
 Jhansi
 You are 25!
 ```
+`Nice work!`
 <br>
 
-`Nice work!`
+**Dealing with errors**
+Making mistakes while programming is normal, and most tools will give you feedback to help you fix mistakes. In this step, create a mistake to see what happens.
+<br>
+In your program, remove the quotes around the text Jhansi, so that line looks as shown below.
+<br>
+```ruby
+println(Jhansi)
+```
+<br>
+Run your program. You should see Jhansi printed in red, and an exclamation mark next to the line of code you changed, to show you where there is an error.
+![59b30c831e01b523_1920](https://user-images.githubusercontent.com/35607112/205447074-2c5c8213-9fb0-4e80-91bd-748653409cc8.png)
+
+
 
 
 
