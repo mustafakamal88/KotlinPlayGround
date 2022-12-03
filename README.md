@@ -2,7 +2,7 @@
 
 *Write your first program in Kotlin*
 
-**What is Kotlin?**<br>
+**1. What is Kotlin?**<br>
 Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference.
 Android apps are written in the Kotlin programming language. Kotlin is a modern language created to help developers write code efficiently and with as few errors as possible.
 
@@ -27,7 +27,7 @@ fun main() {
 ```
 <br>
 
-**Run the program code**<br>
+**2. Run the program code**<br>
 Running a program that you created is not much different than running a program such as a word processor on your computer. The difference is that when you run a program to accomplish a task, or play a game, you primarily care about what the program can do for you, and you don't concern yourself with the code that makes it work. When you are programming, you get to see and work with the actual code that makes the magic happen.<br>
 
 Let's see what this program does!<br>
@@ -44,7 +44,7 @@ Hello, world!<br>
 
 **Compilation:** is a process that translates the Kotlin program code into a form that the system can run. If compilation completes successfully, there are no errors in the program that would keep it from running. If there are problems, they will appear in the pane at the bottom.
 
-**Modify your program**<br>
+**3 Modify your program**<br>
 Change the Hello World code
 Let's change the program to make it do something a little different.<br>
 
@@ -112,7 +112,7 @@ fun main() {
 }
 ```
 <br>
-Alt-H2 Extend your program
+**4. Extend your program**
 
 
 
