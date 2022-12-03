@@ -36,9 +36,9 @@ In the editor, in the top-right corner, find the green triangle ![63ca117bafffc8
 Look at the pane at the bottom.<br>
 
 **Output**<br>
-
+```
 Hello, world!<br>
-
+```
 **Notice** Hello, world! printed, So now you know what this program does: It prints, or outputs, a hello world message.
 
 
