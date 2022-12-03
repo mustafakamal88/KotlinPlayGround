@@ -1,7 +1,7 @@
 # **KotlinPlayGround**
 
 # Reference Site<br>
-([https://www.google.com](https://developer.android.com/courses/android-basics-kotlin/) "Google Android Developers")
+[Google Android Developer Training]([https://www.google.com](https://developer.android.com/courses/android-basics-kotlin/course) "Google Android Developers")
 
 
 
