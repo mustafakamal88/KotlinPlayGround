@@ -231,7 +231,7 @@ A birthday message needs a birthday-themed picture. Like, a cake. You can add a 
 In your code, between the two `println()` statements for `Happy Birthday` and `You are already 5`, add the following lines of print statements, as shown below. This creates a cake. The last `println()` statement has no text between the quotes, which prints an empty line.<br>
 
 ```ruby
-println("   ,,,,,   ")
+    println("   ,,,,,   ")
     println("   |||||   ")
     println(" =========")
     println("@@@@@@@@@@@")
