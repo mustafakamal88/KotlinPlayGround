@@ -19,9 +19,9 @@ Clone this project in android studio and navigate to the kotline playground Git:
 
 **This is the program code in the editor:**<br>
 ```
-<span style="color: green;">fun main() {
+<font style="color: green;">fun main() {
     println("Hello, world!")
-}</span>
+}</font>
 
 ```
 <br>
