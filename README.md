@@ -105,7 +105,7 @@ To actually print the text, this whole println instruction has to be inside the 
 
 So, there it is. The smallest Kotlin program.<br>
 
-```
+```ruby
 fun main() {
     println("Happy Birthday!")
 }
