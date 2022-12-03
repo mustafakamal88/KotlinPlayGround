@@ -19,9 +19,10 @@ Clone this project in android studio and navigate to the kotline playground Git:
 
 **This is the program code in the editor:**<br>
 ```
-fun main() {
+<span style="color: green;">fun main() {
     println("Hello, world!")
-}
+}</span>
+
 ```
 <br>
 
@@ -35,7 +36,7 @@ Look at the pane at the bottom.<br>
 
 **Output**<br>
 
-<span style="color: red;">Hello, world!<br></span>
+Hello, world!<br>
 
 **Notice** Hello, world! printed, So now you know what this program does: It prints, or outputs, a hello world message.
 
