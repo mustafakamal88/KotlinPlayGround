@@ -34,9 +34,10 @@ In the editor, in the top-right corner, find the green triangle and click it to 
 Look at the pane at the bottom.<br>
 
 **Output**<br>
+
 Hello, world!<br>
 
-**Notice** Hello, world! printed, like in the image above. So now you know what this program does: It prints, or outputs, a hello world message.
+**Notice** Hello, world! printed, So now you know what this program does: It prints, or outputs, a hello world message.
 
 
 **Compilation:** is a process that translates the Kotlin program code into a form that the system can run. If compilation completes successfully, there are no errors in the program that would keep it from running. If there are problems, they will appear in the pane at the bottom.
