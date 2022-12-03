@@ -176,6 +176,12 @@ Web Tool
 
 <br>
 
+This message, Unresolved reference: Jhansi, tells you what the system thinks is the error in the code. Even if you don't know what the error message means, you may be able to figure out what's wrong. In this case, you know that the println() instruction prints text. You learned earlier that the text has to be between quotes. If the text is not quoted, that is an error.<br>
+Go ahead and add the quotes back in.<br>
+Run your program to make sure it works again.<br>
+
+`Congratulations, you have run and changed your first Kotlin program!`
+
 
 
 
