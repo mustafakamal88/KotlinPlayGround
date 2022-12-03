@@ -281,6 +281,23 @@ fun main() {
 ```
 <br>
 
+`Tip:` Notice that we added some whitespace (blank lines) in the code to separate the sections of the code. This makes the code more readable. You can add empty lines anywhere you find it helpful.<br>
+
+Run your code, and the output should look like below.<br>
+
+```ruby
+Happy Birthday, Rover!
+   ,,,,,   
+   |||||   
+ =========
+@@@@@@@@@@@
+{~@~@~@~@~}
+@@@@@@@@@@@
+
+You are already 5!
+5 is the very best age to celebrate!
+```
+<br>
 
 
 
