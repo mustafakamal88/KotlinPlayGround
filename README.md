@@ -182,6 +182,24 @@ Run your program to make sure it works again.<br>
 
 `Congratulations, you have run and changed your first Kotlin program!`
 
+## 5 Solution code
+<br>
+For the complete code of the program you worked on in this repository Download it manually and then import to android studio.
+<br>
+OR
+<br>
+Copy from below
+<br>
+```ruby
+fun main() {
+    println("Happy Birthday!")
+    println("Jhansi")
+    println("You are 25!")
+}
+```
+
+
+
 
 
 
