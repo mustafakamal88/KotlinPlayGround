@@ -176,7 +176,6 @@ Look at the output pane. It shows a message with the same exclamation mark icon.
 <br>
 Web Tool output pane
 <br>
-
 ![5b166684a2b80dee_1920](https://user-images.githubusercontent.com/35607112/205447828-03c213d2-260b-4835-aece-ed47d9ca00d7.png)
 
 <br>
