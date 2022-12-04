@@ -298,9 +298,20 @@ You are already 5!
 5 is the very best age to celebrate!
 ```
 <br>
----
-<br>
 ## Create and use variables
+
+```ruby
+val age = 5
+```
+<br>
+`This line means:`
+
+`val` is a special word used by Kotlin, called a keyword, indicating that what follows is the name of a variable.<br>
+`age` is the name of the variable.<br>
+`=` makes the value of age (on its left) be the same as the value on its right. In math, a single equal sign is used to assert that the values on each side are the same. In Kotlin, unlike in math, a single equal sign is used to assign the value on the right to the named variable on the left.<br>
+A developer would say it like this: This line declares a variable named `age` whose assigned value is `5`.
+
+
 
 
 
