@@ -314,9 +314,7 @@ A developer would say it like this: This line declares a variable named `age` wh
 
 
 **Important:
-
 A variable declared using the val keyword can only be set once. You cannot change its value later in the program.
-
 You can declare a changeable variable with the var keyword, which you will do in a later codelab.
 
 
