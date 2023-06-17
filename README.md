@@ -318,7 +318,7 @@ A developer would say it like this: This line declares a variable named `age` wh
 A variable declared using the var keyword can only be set once. You cannot change its value later in the program.
 You can declare a changeable variable with the var keyword, which you will do in a later code lab.
 
-`var``=:` 
+`var=:` 
 ```fun main(){
 var name = "kotlin"
 name = "Jhon"
@@ -329,7 +329,7 @@ println("Hello $name")
 The output will be the last assigned value to the var which is `Jhon`.
 ```
 
-`val``=`
+`val=`
 ```fun main(){
 val = "kotlin"
 println("Hello $name)
