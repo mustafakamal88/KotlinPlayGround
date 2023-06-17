@@ -323,7 +323,7 @@ You can declare a changeable variable with the var keyword, which you will do in
 var name = "kotlin"
 name = "Jhon"
 println("Hello $name")
-}```
+}
 
 ```
 The output will be the last assigned value to the var which is `Jhon`.
