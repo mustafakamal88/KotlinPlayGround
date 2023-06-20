@@ -330,10 +330,10 @@ The output will be the last assigned value to the var which is `Jhon`.
 ```
 
 `val=:`
-```fun main(){
+```
 val = "kotlin"
 println("Hello $name)
-}```
+```
 ```
 val cannot be changed at a later stage.
 ```
