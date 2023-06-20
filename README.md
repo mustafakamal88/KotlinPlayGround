@@ -343,10 +343,5 @@ val cannot be changed at a later stage.
 
 
 
-
-
-
-
----
 ## Reference Site<br>
 [Google Android Developer Training](https://developer.android.com/courses/android-basics-kotlin/course) "I learn Kotlin from this Google official documentation you can also check for more references")
